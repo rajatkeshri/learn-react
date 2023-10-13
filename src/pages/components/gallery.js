@@ -1,4 +1,4 @@
-import Profile from './profile.js'
+import Profile from '../qcomps/profile_mistake.js'
 
 export default function Gallery() {
   return (
